@@ -1,7 +1,7 @@
 {
-    "name": "Crypto Price Bot",
+    "name": "Vibof Crypto Price Bot",
     "description": "A Chatbot for telegram to get price of cryptos from binance",
-    "repository": "https://github.com/AdityaEXP/Crypto-Price-Bot",
+    "repository": "https://github.com/JhonWest1/vibof",
     "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"],
     "env" : {
         "API_TOKEN" : {
