@@ -5,7 +5,7 @@
     "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"],
     "env" : {
         "API_TOKEN" : {
-            "description": 5663910993:AAE9h1vWZzoAI1TBk8NKcBHE-Vj6QF-rbIA,
+            "description": "5663910993:AAE9h1vWZzoAI1TBk8NKcBHE-Vj6QF-rbIA",
             "required": true
         },
         "APP_NAME" : {
