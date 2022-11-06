@@ -5,11 +5,11 @@
     "keywords": ["Crypto price bot", "binance api", "telegram crypto bot"],
     "env" : {
         "API_TOKEN" : {
-            "description": "Your telegram bot token you can get it from https://t.me/BotFather, Example : 5093659262:AAHoxxxxxxxxxxxxxxxx",
+            "description": "5663910993:AAE9h1vWZzoAI1TBk8NKcBHE-Vj6QF-rbIA",
             "required": true
         },
         "APP_NAME" : {
-            "description": "Your Heroku app-name, Enter same value as the field above 'Choose A Region' Option",
+            "description": "vibof",
             "required": true
         }
     }
